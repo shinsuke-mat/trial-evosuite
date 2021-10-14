@@ -1,0 +1,7 @@
+out/
+tmp/
+build/
+evosuite.jar
+evosuite-*/
+
+.#*
